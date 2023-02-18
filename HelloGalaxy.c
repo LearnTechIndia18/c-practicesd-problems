@@ -4,4 +4,5 @@ int main(){
     printf("Hello Galaxy!");
     printf("\nHow are you?");
     printf("\nFine, what about you?");
+	return 0;
 }
