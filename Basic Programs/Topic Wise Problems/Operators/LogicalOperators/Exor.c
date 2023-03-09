@@ -1,5 +1,6 @@
 // C program for Logical
 // XOR Operator
+// Stair Case Concept - Switch Connections
 #include <stdio.h>
 // Driver code
 int main()
