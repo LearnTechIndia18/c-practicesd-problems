@@ -5,7 +5,6 @@ int main()
 char c='A';
 /* End condition */
 while (c<='Z')
-
 {
 printf("\t %c = %d \n",c,c);
 /* Increment process */
